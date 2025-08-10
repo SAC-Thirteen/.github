@@ -1,5 +1,7 @@
 # 📅 SAC13 
 
+SAC13 is a 13-month solar calendar with fixed four-week months, starting each year with the March Equinox.
+
 ## A new calendar system, that makes the Gregorian Calendar look medieval
 
 <!--
