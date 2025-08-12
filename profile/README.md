@@ -1,16 +1,14 @@
+[<p align="center"><img width="350" alt="Find SAC13 on Codeberg" src="https://github.com/user-attachments/assets/19348ecb-2282-4160-a515-3e75215ba065" /></p>](https://codeberg.org/SAC13)
+<br>
+
 # 📅 SAC13 
 
 SAC13 is a 13-month solar calendar with fixed four-week months, starting each year with the March Equinox.
 
 ## A new calendar system, that makes the Gregorian Calendar look medieval
 
-<!--
+## Important note:
+This repository is used primarily to host the [https://sac13.net](https://sac13.net) website.
 
-**Here are some ideas to get you started:**
+You can find the sources of the reference implementations and other related repositories over at [codeberg](https://codeberg.org/SAC13).  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
