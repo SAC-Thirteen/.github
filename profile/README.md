@@ -1,4 +1,4 @@
-[<p align="center"><img width="350" alt="Find SAC13 on Codeberg" src="https://github.com/user-attachments/assets/19348ecb-2282-4160-a515-3e75215ba065" /></p>](https://codeberg.org/SAC13)
+<p align="center"><a href="https://codeberg.org/SAC13"><img width="350" alt="Find SAC13 on Codeberg" src="https://github.com/user-attachments/assets/19348ecb-2282-4160-a515-3e75215ba065" /></a></p>
 <br>
 
 # 📅 SAC13 
